@@ -184,4 +184,12 @@ body {
     margin-right:7px ;
   }
 }
+@media screen and (max-width: 900px) {
 
+.text-content{  
+  flex-direction: column-reverse;
+  text-align: center;
+
+}
+
+}
